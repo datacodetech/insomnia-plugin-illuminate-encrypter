@@ -1,0 +1,13 @@
+{
+    "name": "insomnia-plugin-illuminate-encrypter",
+    "version": "1.0.0",
+    "main": "index.js",
+    "insomnia": {
+        "name": "Illuminate Encrypter",
+        "description": "Encrypt strings compatible with Illuminate's Encrypter for PHP"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
